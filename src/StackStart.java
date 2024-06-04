@@ -1,6 +1,6 @@
 public class StackStart {
     public static void main(String[] args) {
-        Queue stack1 =new Queue();
+        Stack stack1 =new Stack();
         stack1.add(801);
         stack1.add(802);
         stack1.add(803);
