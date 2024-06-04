@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Queue implements QueueInterface{
+public class Stack implements StackInterface{
 
     ArrayList arry =new ArrayList();
     public void add(Object o) {
